@@ -12,7 +12,7 @@ namespace Addresses
  	uintptr_t LineOfSightTo = 0x627FB84;
         uintptr_t ProjectileSpeed = 0x1F30;
         uintptr_t ProjectileGravity = 0x1F34;
-        uintptr_t PlayerName = 0xAA8;
+        uintptr_t PlayerName = 0xA98;
 	uintptr_t Viewpoint = 0x10F90A10;
 	uintptr_t DrawTransition = 0x71;
 	uintptr_t ProcessEvent = 0x4D;
